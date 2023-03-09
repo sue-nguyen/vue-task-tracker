@@ -1,24 +1,15 @@
-# vue-task-tracker
+# View the app [here](https://sue-nguyen.github.io/vue-task-tracker/).
 
-## Project setup
-```
-npm install
-```
+This app is a self-learning project that I did during my free time so I can better learn Vue.js and what the framework offers. [Here](https://www.youtube.com/watch?v=qZXt1Aom3Cs&t=1226s) is the tutorial that I followed.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Some basic functions of a to-do list, or task tracker, application is displayed in this app:
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### 1. Add a New Task with a Due Date
 
-### Lints and fixes files
-```
-npm run lint
-```
+### 2. Adding an Empty Task is Not Allowed
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 3. Prioritize the Task by a Simple Click
+
+### 4. Open and Close the 'Add Task' Form
+
+### 5. Pop-up when Delete a Task to Confirm
